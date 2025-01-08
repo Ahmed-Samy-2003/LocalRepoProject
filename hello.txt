@@ -1,1 +1,2 @@
- git add hello.txt
+git add hello.txt
+Hello, Git and GitHub! hello.txt
